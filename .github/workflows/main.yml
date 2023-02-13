@@ -17,4 +17,4 @@ jobs:
       - uses: actions/checkout@v2
       #Builds ClickOnce File Using PowerShell on the VM.
       - name: Power Shell Build     
-        run: cmd msbuild /t:publish /p:PublishProfile=/Properties/PublishProfiles/ClickOnceProfile.pubxml /p:PublishDir="/bin"
+        run: cmd msbuild /t:publish /p:PublishProfile=Properties/PublishProfiles/ClickOnceProfile.pubxml /p:PublishDir="/bin"
