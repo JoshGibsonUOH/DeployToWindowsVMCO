@@ -1,0 +1,17 @@
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\bin\Debug\net6.0-windows\TestApplicationForClickOnce.exe
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\bin\Debug\net6.0-windows\TestApplicationForClickOnce.deps.json
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\bin\Debug\net6.0-windows\TestApplicationForClickOnce.runtimeconfig.json
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\bin\Debug\net6.0-windows\TestApplicationForClickOnce.dll
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\bin\Debug\net6.0-windows\TestApplicationForClickOnce.pdb
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.csproj.AssemblyReference.cache
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.Form1.resources
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.csproj.GenerateResource.cache
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.AssemblyInfoInputs.cache
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.AssemblyInfo.cs
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.csproj.CoreCompileInputs.cache
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.dll
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\refint\TestApplicationForClickOnce.dll
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.pdb
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\TestApplicationForClickOnce.genruntimeconfig.cache
+C:\Programs\C#\TestApplicationForClickOnce\TestApplicationForClickOnce\obj\Debug\net6.0-windows\ref\TestApplicationForClickOnce.dll
