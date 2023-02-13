@@ -16,5 +16,5 @@ jobs:
       # Checks out repository so our job can access it
       - uses: actions/checkout@v2
       #Builds ClickOnce File Using PowerShell on the VM.
-      - name: Power Shell Build     
-        run: cmd msbuild /t:publish /p:PublishProfile=Properties/PublishProfiles/ClickOnceProfile.pubxml /p:PublishDir="/bin"
+      - name: Power Shell Build        
+        run: powershell msbuild /t:publish /p:PublishProfile=C:\actions-runner\_work\DeployToWindowsVMCO\DeployToWindowsVMCO\Properties\PublishProfiles\ClickOnceProfile.pubxml /p:PublishDir="\bin"
